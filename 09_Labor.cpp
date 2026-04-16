@@ -15,6 +15,6 @@ int main() {
         std::cout << "Cannot divide by zero." << std::endl;
     }
 
-    //kommentar
+    //kommentare
     return 0;
 }
